@@ -1,0 +1,44 @@
+# ⌨️ Basic Keylogger (Educational Project)
+
+⚠️ Disclaimer:
+This project is created strictly for educational purposes to understand 
+how keylogging works in cybersecurity studies. 
+It must only be used on systems where you have proper authorization and permission.
+
+---
+
+## 📌 Project Overview
+
+This project demonstrates a simple keylogger program built in Python 
+that records keystrokes and saves them to a file.
+
+The purpose of this project is to understand:
+
+- How keyboard input events are captured
+- File handling in Python
+- Security risks associated with keyloggers
+- Importance of ethical hacking practices
+
+---
+
+## 🔍 Features
+
+✔ Records keystrokes  
+✔ Logs keys into a text file  
+✔ Demonstrates basic event handling  
+✔ Simple and beginner-friendly implementation  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- pynput library (if used)
+
+---
+
+## 📦 Installation & Setup
+
+1️⃣ Install Python  
+
+2️⃣ Install required library:
